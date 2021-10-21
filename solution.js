@@ -178,6 +178,7 @@ runRoomba("input.txt");
 /** NOTES **
  * no need to handle empty file, it will always have at least 3 lines (confirmed w York)
  * handle no patches of dirt
+ * handle when the initial position is dirty
  * handle multiple lines of instructions
  * handle non valid instructions
  * handle out of bounds directions
